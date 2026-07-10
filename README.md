@@ -32,10 +32,9 @@
 <strong>Basic Chatbot</strong>
 
 <img width="5360" height="2632" alt="IMG-20260702-WA0335" src="https://github.com/user-attachments/assets/1260ba1b-78b2-455e-b031-2c881a1bd577" />
-
-
+</br>
 <img width="5232" height="2548" alt="IMG-20260702-WA0353" src="https://github.com/user-attachments/assets/c8a94316-8823-4157-a8c4-613fb2766d3b" />
-
+</br>
 
 <img width="5288" height="2560" alt="IMG-20260702-WA0352" src="https://github.com/user-attachments/assets/d7441914-b45d-4344-bf07-307ed17b71b0" />
 
