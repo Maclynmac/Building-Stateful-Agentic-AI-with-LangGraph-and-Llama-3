@@ -1,4 +1,4 @@
-<strong>Building-Stateful-Agentic-AI-with-LangGraph-and-Llama-3</strong>
+<strong>LangGraph-Powered Stateful AI News Assistant</strong>
 
 <strong>Features:</strong>
 
@@ -27,4 +27,4 @@
   <li>FAISS (faiss-cpu): Included for local vector similarity and retrieval support in the tool/agent pipeline.</li>
 </ul>
 
-
+# Output
