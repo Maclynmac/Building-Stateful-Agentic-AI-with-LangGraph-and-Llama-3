@@ -1,4 +1,4 @@
-<strong>LangGraph-Powered Stateful AI News Assistant</strong>
+<strong>Agentic AI News Intelligence Platform with LangGraph & Groq</strong>
 
 <strong>Features:</strong>
 
